@@ -27,13 +27,8 @@ Installing PostgreSQL
 Follow the installation steps for PostgreSQL on Windows, including setting a password for the postgres user.
 
 Creating the Database and Table
-Once PostgreSQL is installed and running, open the psql terminal and execute the following commands to create a database and a table:
-
-sql
-Copy
-Edit
-CREATE DATABASE db1;
-
+Once PostgreSQL is installed and running, open pgadmin4 and create a database then a open a query and execute the following queries:
+```java
 CREATE TABLE users (
     id SERIAL PRIMARY KEY,
     name VARCHAR(100),
