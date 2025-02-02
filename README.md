@@ -1,4 +1,5 @@
 **JDBC Project with PostgreSQL**
+
 This project illustrates the use of JDBC (Java Database Connectivity) to connect to a PostgreSQL database and manipulate data through a standalone Java application. The goal is to create a database, a table, and perform basic operations (inserting and reading data) using JDBC.
 
 **Technologies and Versions Used:**
