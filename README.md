@@ -13,7 +13,7 @@ Before starting, make sure the following software is installed on your machine:
 
 PostgreSQL (version 16.6)
 
-Download and install PostgreSQL from the official website: PostgreSQL Downloads
+Download and install PostgreSQL from the official website: [PostgreSQL Downloads][https://www.postgresql.org/download/]
 Ensure that the PostgreSQL server is running and that you can access it via psql.
 Java JDK (version 17 or above)
 
