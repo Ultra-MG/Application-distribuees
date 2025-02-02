@@ -8,7 +8,8 @@ PostgreSQL: Version 16.6
 JDBC Driver: Version 42.7.5
 IDE: VSCode (Visual Studio Code)
 Operating System: Windows 11
-Prerequisites
+
+Prerequisites:
 Before starting, make sure the following software is installed on your machine:
 
 PostgreSQL (version 16.6)
