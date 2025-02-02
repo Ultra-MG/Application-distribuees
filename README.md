@@ -4,10 +4,15 @@ This project illustrates the use of JDBC (Java Database Connectivity) to connect
 Technologies and Versions Used:
 
 Java: Version 17 (or any compatible version)
+
 PostgreSQL: Version 16.6
+
 JDBC Driver: Version 42.7.5
+
 IDE: VSCode (Visual Studio Code)
+
 Operating System: Windows 11
+
 
 Prerequisites:
 Before starting, make sure the following software is installed on your machine:
