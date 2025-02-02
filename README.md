@@ -28,7 +28,7 @@ Follow the installation steps for PostgreSQL on Windows, including setting a pas
 
 Creating the Database and Table
 Once PostgreSQL is installed and running, open pgadmin4 and create a database then a open a query and execute the following queries:
-```java
+```sql
 CREATE TABLE users (
     id SERIAL PRIMARY KEY,
     name VARCHAR(100),
