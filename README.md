@@ -34,4 +34,5 @@ CREATE TABLE users (
     name VARCHAR(100),
     Phone_number CHAR(8) UNIQUE
 );
+```
 This is a basic JDBC project setup, showing how to interact with a PostgreSQL database using Java. 
